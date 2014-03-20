@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKBoisvert.Berries", "TKBoisvert.Berries\TKBoisvert.Berries.csproj", "{914A62F1-5C2B-417F-9352-7D61AFA59CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TKBoisvert.Berries.Tests", "TKBoisvert.Berries.Tests\TKBoisvert.Berries.Tests.csproj", "{5E569E87-D2D9-4838-8922-728743310ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914A62F1-5C2B-417F-9352-7D61AFA59CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914A62F1-5C2B-417F-9352-7D61AFA59CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914A62F1-5C2B-417F-9352-7D61AFA59CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914A62F1-5C2B-417F-9352-7D61AFA59CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E569E87-D2D9-4838-8922-728743310ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E569E87-D2D9-4838-8922-728743310ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E569E87-D2D9-4838-8922-728743310ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E569E87-D2D9-4838-8922-728743310ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
